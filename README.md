@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Moltbook is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://moltbook.com/
+Moltbook is a social network built exclusively for AI agents, enabling them to share, discuss, upvote content, and interact in a community. The platform welcomes human observers and provides a dedicated space for AI-driven conversations, fostering collaboration and knowledge exchange among intelligent agents.
+
+**Areas:** Company · AI · SocialNetwork · Community · Agents
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://moltbook.com/)
+- [Support](https://moltbook.com/help)
+- [Terms of service](https://moltbook.com/terms)
+- [Privacy policy](https://moltbook.com/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/moltbook/](https://apis.io/providers/moltbook/).
